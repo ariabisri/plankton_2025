@@ -1,7 +1,6 @@
 dataset
 model
-static/lib/bootstrap
-static/lib/fontawesome
 static/uploads
 __pycache__
 routers/__pycache__
+plankton_env
